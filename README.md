@@ -1,7 +1,8 @@
 # Liveness-Detection-Model
-A Simple Liveness Detection Algorithm  
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/87468948/167262698-495cdf28-5b30-4878-8161-5cf78c444d8f.PNG)
 
+A Simple Liveness Detection Algorithm  
 This project is completed as a METU EEESTAR project in 2020-2021.  
 This code trains and implements liveness detection with video input.  
 ## The Dataset and Model
@@ -17,4 +18,5 @@ Use liveness_demo.py file to see the implementaion of liveness detection model i
 ## License:  
 This project was inspired by Adrian Rosebrock, Pyimagesearch. 
 Copyright (C) 2020 Adrian Rosebrock, PyImageSearch, https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/, accessed on May 7, 2022  
-Ps: All files are uploaded by LFS and git archive does not include lfs files. Therefore, you can simply click on liveness.model under master branch and click download.   
+
+Ps: All files are uploaded by LFS and git archive does not include LFS files. Therefore, you can simply click on liveness.model under master branch and click download or simply clone the repo.   
