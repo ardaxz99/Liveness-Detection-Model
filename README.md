@@ -1,5 +1,5 @@
 # Liveness-Detection-Model
-A Simple Liveness Detection Algorithm
+A Simple Liveness Detection Algorithm  
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/87468948/167262698-495cdf28-5b30-4878-8161-5cf78c444d8f.PNG)
 
 This project is completed as a METU EEESTAR project in 2020-2021.  
