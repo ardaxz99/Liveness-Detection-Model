@@ -15,6 +15,6 @@ Use liveness_demo.py file to see the implementaion of liveness detection model i
 
 
 This project was inspired by Adrian Rosebrock, Pyimagesearch.  
-##License:  
+## License:  
 Copyright (C) 2020 Adrian Rosebrock, PyImageSearch, https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/, accessed on May 7, 2022  
 Ps: All files are uploaded by LFS and git archive does not include lfs files. Therefore, you can simply click on liveness.model under master branch and click download.   
